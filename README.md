@@ -1,16 +1,7 @@
-# fluttermap
+# Experiment  8
 
-A new Flutter project.
+OUTPUT:--
+![new mad pic](https://github.com/AshVarghese03/MAD-PWA-exp8/assets/110612587/eabb5b3d-f1ad-4cfe-b3df-f900d99c6dcc)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
